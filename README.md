@@ -1,3 +1,4 @@
+Test comment
 # Arduino library for LPD8806 #
 This Library was written for the LPD8806 PWM LED driver chips, strips and pixels.
 But the LPD8803/LPD8809 will probably work too.
